@@ -15,3 +15,4 @@ Licensing: Technology Licensing: License the technology to private traffic manag
 Data Analytics Services:Provide data analysis services to improve urban planning, reduce congestion, and enhance public transport.
 
 Subscription Model:Ongoing Support: Use a subscription model for ongoing maintenance, updates, and data services to keep the system optimized. Like hospitals , Fire engines.
+
